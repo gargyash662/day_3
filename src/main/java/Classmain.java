@@ -1,11 +1,15 @@
 public class Classmain {
 
-public static void main(System[] args)
+public static void main(String[] args)
 {
-    int employeeid;
-    String employeename;
 
-    S
+
+
+ arthmetic s1 = new arthmetic();
+ System.out.println(arthmetic.sum(10,20));
+
+
+
 }
 
 }
